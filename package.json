@@ -1,0 +1,15 @@
+{
+  "name": "javascript-unit-testing---the-practical-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --globals"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.25.3"
+  }
+}
